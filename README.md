@@ -1,3 +1,5 @@
+![capture](./Capture.jpg)
+
 # React-JS-Sequence-Board-Game
 This Sequence Board game can be played by 4 players in real time. The game waits for all the four players to join the game. Once all players are ready, the game starts automatically.
 The Game is built in React JS along with the socket programming.
